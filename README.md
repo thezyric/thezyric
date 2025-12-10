@@ -17,9 +17,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thezyric&theme=dark" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
 
